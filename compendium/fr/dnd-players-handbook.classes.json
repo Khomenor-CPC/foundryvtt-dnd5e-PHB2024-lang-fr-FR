@@ -1,9 +1,9 @@
 {
-  "label": "Character Classes",
+  "label": "Classe de Personnages",
   "folders": {
     "Aberrant Sorcery": "Sorcellerie aberrante",
     "Abjurer": "Abjurateur",
-    "Arcane Trickster": "Arcane Trickster",
+    "Arcane Trickster": "Arnaqueur arcanique",
     "Archfey Patron": "Archfey Patron",
     "Assassin": "Assassin",
     "Barbarian": "Barbare",
@@ -22,22 +22,22 @@
     "Dance": "Danse",
     "Diviner": "Devin",
     "Draconic Sorcery": "Sorcellerie draconique",
-    "Druid": "Druid",
+    "Druid": "Druide",
     "Eldritch Invocation Options": "Eldritch Invocation Options",
     "Eldritch Knight": "Eldritch Knight",
     "Evoker": "Evoker",
     "Fey Wanderer": "Fey Wanderer",
     "Fiend Patron": "Fiend Patron",
-    "Fighter": "Fighter",
+    "Fighter": "Guerrier",
     "Glamour": "Glamour",
     "Gloom Stalker": "Gloom Stalker",
     "Great Old One Patron": "Great Old One Patron",
-    "Hunter": "Hunter",
-    "Illusionist": "Illusionist",
-    "Life Domain": "Life Domain",
-    "Light Domain": "Light Domain",
+    "Hunter": "Chasseur",
+    "Illusionist": "Illusioniste",
+    "Life Domain": "Domaine de la Vie",
+    "Light Domain": "Domaine de la Lumière",
     "Lore": "Savoir",
-    "Maneuver Options": "Maneuver Options",
+    "Maneuver Options": "Options de Manoeuvre",
     "Metamagic Options": "Metamagic Options",
     "Monk": "Monk",
     "Oath of Devotion": "Oath of Devotion",
@@ -69,7 +69,7 @@
   },
   "entries": {
     "Aberrant Sorcery": {
-      "name": "Aberrant Sorcery"
+      "name": "Sorcellerie aberrante"
     },
     "Abjuration Savant": {
       "name": "Abjuration Savant"
@@ -177,7 +177,7 @@
       "name": "Barbarian"
     },
     "Bard": {
-      "name": "Bard"
+      "name": "Barde"
     },
     "Bardic Inspiration": {
       "name": "Bardic Inspiration"
@@ -312,16 +312,16 @@
       "name": "Clockwork Spells"
     },
     "College of Dance": {
-      "name": "College of Dance"
+      "name": "Collège de la Danse"
     },
     "College of Glamour": {
       "name": "College of Glamour"
     },
     "College of Lore": {
-      "name": "College of Lore"
+      "name": "Collège du Savoir"
     },
     "College of Valor": {
-      "name": "College of Valor"
+      "name": "Collège de la Vaillance"
     },
     "Combat Inspiration": {
       "name": "Combat Inspiration"
