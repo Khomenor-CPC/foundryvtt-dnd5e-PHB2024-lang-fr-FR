@@ -1,0 +1,27 @@
+{
+  "id": "dnd5e_PHB2024_fr-FR",
+  "title": "FR - PHB Donjons & Dragons",
+  "description": "p>Traduction du PHB DD5 [Atropos]. L'installation du module Babele est nécessaire pour les compendiums</p>",
+  "authors": [
+    {
+      "name": "Khomenor"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 13.344
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
